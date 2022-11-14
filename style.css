@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(69, 67, 67);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.main{
+    background-color: rgb(243, 235, 97);
+    padding: 20px;
+    border: none;
+    border-radius: 15px;
+    width: 500px;
+    align-content: center;
+}
+label{
+    display: block;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 10px 0;
+}
+p{
+    font-size: 20px;
+    color: blueviolet;
+}
